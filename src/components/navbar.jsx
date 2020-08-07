@@ -8,7 +8,7 @@ class Navbar extends Component {
       <header>A<span className="logostyle">NOOB</span>IE</header>
       <ul className="navbar-nav">
           <li className="nav-item">
-              <a href="#" className="nav-link">DASHBOARD</a>
+              <a href="/#" className="nav-link">DASHBOARD</a>
           </li>
       </ul>
 
